@@ -1,4 +1,4 @@
-1.Open Google Sheets as an admin.
+1. Open Google Sheets as an admin.
 Go to Extensions >> Apps Script
 
 2. script.google.com will open in a new tab
